@@ -1,0 +1,71 @@
+header{
+    background-image: url('ignasi.png');
+    width: 960px;
+    height: 300px;
+    margin: 15px;
+    padding : 10px;
+    
+}
+.info{
+    float:left;
+    width: 350px;
+    height: 150px;
+    margin-top: 100px;
+    text-align: center;
+    font-size: 24px;
+}
+.image{
+
+    float: right;
+}
+main{
+    background-image: url('paisley.png');
+    width: 960px;
+    height: 1000px;
+    margin: 15px;
+    padding : 10px;
+    text-align: center;
+}
+#colonne1{
+    
+    float: left;
+}
+#colonne3{
+    
+    float: right;
+}
+.experience{
+    width: 30%;
+    height: 900px;
+    padding: 10px;
+    display: inline-block;
+}
+.ambition{
+    width: 30%;
+    height: 900px;
+    padding: 10px;
+    display: inline-block;
+}
+.parcours{
+    width: 30%;
+    height: 900px;
+    padding: 10px;
+    display: inline-block;
+}
+footer{
+    background-image: url('wov.png');
+    width: 960px;
+    height: 199px;
+    margin: 15px;
+    padding : 10px;
+}
+#frame{
+    width: 50%;
+}
+#coordonnees{
+    margin-left: 30px;
+    float: right;
+    width: 40%;
+    text-align: center;
+    padding-top: 70px;
+}
